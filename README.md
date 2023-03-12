@@ -10,7 +10,7 @@
 ## Leetcode 75
 1. [leetcode1480](https://youtu.be/rvw0IztUh7I)---chatgpt code:**OK**,**easy** note:**nothing**
 2. leetcode724
-3. [leetcode205](https://youtu.be/JoULDV7ixro)---chatgpt code:**OK**,**complex**, note:[**zip()**](https://github.com/SAStommy/DS#筆記區#zip()) & [**set()**](https://github.com/SAStommy/DS#筆記區#set())
+3. [leetcode205](https://youtu.be/JoULDV7ixro)---chatgpt code:**OK**,**complex**, note:[**zip()**](https://github.com/SAStommy/DS#zip) & [**set()**](https://github.com/SAStommy/DS#set)
 4. leetcode392
 # 筆記區
 ## set()
