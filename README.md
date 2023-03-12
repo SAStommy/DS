@@ -1,7 +1,8 @@
 # DS
 
 我將會以Leetcode題目進行python語法的講解並介紹裡面的語法
-
+## 目錄
+## 題目
 Leetcode 75
 1. [leetcode1480](https://youtu.be/rvw0IztUh7I)---chatgpt code:**OK**,**easy** note:**nothing**
 2. leetcode724
