@@ -12,6 +12,32 @@
 2. [leetcode724](https://youtu.be/ymMvJfbbtVY)---chatgpt code:**OK**,**easy** note:**nothing**
 3. [leetcode205](https://youtu.be/JoULDV7ixro)---chatgpt code:**OK**,**complex**, note:[**zip()**](https://github.com/SAStommy/DS#zip) & [**set()**](https://github.com/SAStommy/DS#set)
 4. [leetcode392](https://youtu.be/Bjyp7qpvP6E)---chatgpt code:**OK**,**easy** note:**nothing**
+5. [leetocde21]
+6. [leetcode206]
+7. [leetcode875]
+8. [leetcode142]
+9. [leetcode121]
+10. [leetcode409]
+11. [leetcode589]
+12. [leetcode102]
+13. [leetcode704]
+14. [leetcode278]
+15. [leetcode98]
+16. [leetcode235]
+17. [leetcode0733]
+18. [leetcode200]
+19. [leetcode509]
+20. [leetcode70]
+21. [leetcode746]
+22. [leetcode62]
+23. [leetcode438]
+24. [leetcode424]
+25. [leetcode1]
+26. [leetcode299]
+27. [leetcode844]
+28. [leetcode394]
+29. [leetcode1046]
+30. [leetcode692]
 # 筆記區
 ## set()
 他可以把裡面的惟一字元抽出來形成新的集合
