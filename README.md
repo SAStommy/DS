@@ -60,13 +60,12 @@ zip(o.p)=(1,a),(2,b)
 [Prefix sum](https://youtu.be/rvw0IztUh7I)\
 [string](https://youtu.be/JoULDV7ixro)
 ### HW2:
-[Greedy]()
+[Greedy]()\
 [Tree]()
 ### HW3:
 [Binary Search]()
 ### HW4:
 [Graph/BFS/DFS]()
 ### HW5:
-[Stack]()
+[Stack]()\
 [heap]()
-[
