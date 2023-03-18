@@ -9,9 +9,9 @@
 # 題目
 ## Leetcode 75
 1. [leetcode1480](https://youtu.be/rvw0IztUh7I)---chatgpt code:**OK**,**easy** note:**nothing**
-2. leetcode724
+2. [leetcode724](https://youtu.be/ymMvJfbbtVY)---chatgpt code:**OK**,**easy** note:**nothing**
 3. [leetcode205](https://youtu.be/JoULDV7ixro)---chatgpt code:**OK**,**complex**, note:[**zip()**](https://github.com/SAStommy/DS#zip) & [**set()**](https://github.com/SAStommy/DS#set)
-4. leetcode392
+4. [leetcode392](https://youtu.be/Bjyp7qpvP6E)---chatgpt code:**OK**,**easy** note:**nothing**
 # 筆記區
 ## set()
 他可以把裡面的惟一字元抽出來形成新的集合
@@ -30,7 +30,17 @@ o = [1,2,3]\
 p = {a,b}\
 zip(o.p)=(1,a),(2,b)
 # 作業繳交區
-## HW1:
+### HW1:
 [Prefix sum](https://youtu.be/rvw0IztUh7I)\
 [string](https://youtu.be/JoULDV7ixro)
 ### HW2:
+[Greedy]()
+[Tree]()
+### HW3:
+[Binary Search]()
+### HW4:
+[Graph/BFS/DFS]()
+### HW5:
+[Stack]()
+[heap]()
+[
