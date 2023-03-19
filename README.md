@@ -16,7 +16,7 @@
 6. [leetcode206]
 7. [leetcode875]
 8. [leetcode142]
-9. [leetcode121]
+9. [leetcode121](https://youtu.be/RwLnlgxk_5k)------chatgpt code:**OK**,**easy** note:**nothing**
 10. [leetcode409]
 11. [leetcode589]
 12. [leetcode102]
@@ -60,7 +60,7 @@ zip(o.p)=(1,a),(2,b)
 [Prefix sum](https://youtu.be/rvw0IztUh7I)\
 [string](https://youtu.be/JoULDV7ixro)
 ### HW2:
-[Greedy]()\
+[Greedy](https://youtu.be/RwLnlgxk_5k)\
 [Tree]()
 ### HW3:
 [Binary Search]()
