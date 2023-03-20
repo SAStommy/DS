@@ -24,7 +24,7 @@
 14. [leetcode278]
 15. [leetcode98]
 16. [leetcode235]
-17. [leetcode0733](https://youtu.be/iV-niJ40qwY)---chatgpt code:**OK**,**easy** note:**nothing**
+17. [leetcode733](https://youtu.be/iV-niJ40qwY)---chatgpt code:**OK**,**easy** note:**nothing**
 18. [leetcode200]
 19. [leetcode509]
 20. [leetcode70]
