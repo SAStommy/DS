@@ -16,7 +16,7 @@
 6. [leetcode206]
 7. [leetcode875]
 8. [leetcode142]
-9. [leetcode121](https://youtu.be/RwLnlgxk_5k)------chatgpt code:**OK**,**easy** note:**nothing**
+9. [leetcode121](https://youtu.be/RwLnlgxk_5k)---chatgpt code:**OK**,**easy** note:**nothing**
 10. [leetcode409]
 11. [leetcode589](https://youtu.be/po5KXxLu-mE)---chatgpt code:**OK**,**easy** note:**preorder tree**
 12. [leetcode102]
@@ -24,7 +24,7 @@
 14. [leetcode278]
 15. [leetcode98]
 16. [leetcode235]
-17. [leetcode0733]
+17. [leetcode0733](https://youtu.be/iV-niJ40qwY)---chatgpt code:**OK**,**easy** note:**nothing**
 18. [leetcode200]
 19. [leetcode509]
 20. [leetcode70]
@@ -66,7 +66,7 @@ zip(o.p)=(1,a),(2,b)
 ### HW3:
 [Binary Search](https://youtu.be/Ov6Tg4wox-4)
 ### HW4:
-[Graph/BFS/DFS]()
+[Graph/BFS/DFS](https://youtu.be/iV-niJ40qwY)
 ### HW5:
 [Stack]()\
 [heap]()
