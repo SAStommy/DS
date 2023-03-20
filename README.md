@@ -20,7 +20,7 @@
 10. [leetcode409]
 11. [leetcode589](https://youtu.be/po5KXxLu-mE)---chatgpt code:**OK**,**easy** note:**preorder tree**
 12. [leetcode102]
-13. [leetcode704]
+13. [leetcode704](https://youtu.be/PXnYE5hBLe8)---chatgpt code:**OK**,**complex** note:**index()**
 14. [leetcode278]
 15. [leetcode98]
 16. [leetcode235]
@@ -64,7 +64,7 @@ zip(o.p)=(1,a),(2,b)
 [Tree](https://youtu.be/po5KXxLu-mE)\
 [python build function with leetcode121](https://youtu.be/pXYctbvK6Tw)
 ### HW3:
-[Binary Search]()
+[Binary Search](https://youtu.be/PXnYE5hBLe8)
 ### HW4:
 [Graph/BFS/DFS]()
 ### HW5:
