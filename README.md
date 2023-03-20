@@ -61,7 +61,8 @@ zip(o.p)=(1,a),(2,b)
 [string](https://youtu.be/JoULDV7ixro)
 ### HW2:
 [Greedy](https://youtu.be/RwLnlgxk_5k)\
-[Tree](https://youtu.be/po5KXxLu-mE)
+[Tree](https://youtu.be/po5KXxLu-mE)\
+[python build function with leetcode121]()
 ### HW3:
 [Binary Search]()
 ### HW4:
