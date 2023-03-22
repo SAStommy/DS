@@ -34,9 +34,9 @@
 24. [leetcode424]
 25. [leetcode1]
 26. [leetcode299]
-27. [leetcode844]
+27. [leetcode844](https://youtu.be/OAXmVfshcoc)---chatgpt code:**OK**,**easy** note:**pop()**
 28. [leetcode394]
-29. [leetcode1046]
+29. [leetcode1046](https://youtu.be/fzqA5xuCgTk)---chatgpt code:**OK**,**easy** note:**remove()**
 30. [leetcode692]
 # 筆記區
 ## set()
@@ -68,5 +68,5 @@ zip(o.p)=(1,a),(2,b)
 ### HW4:
 [Graph/BFS/DFS](https://youtu.be/iV-niJ40qwY)
 ### HW5:
-[Stack]()\
-[heap]()
+[Stack](https://youtu.be/OAXmVfshcoc)\
+[heap](https://youtu.be/fzqA5xuCgTk)
